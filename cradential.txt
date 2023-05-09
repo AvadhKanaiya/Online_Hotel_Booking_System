@@ -1,0 +1,6 @@
+admin :
+username:avadh
+pwd:avadh_k
+
+username:avadh kanaiya
+pwd:avadh@123
